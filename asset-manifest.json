@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/Employee/static/css/main.6f741114.css",
+    "main.js": "/github.io/Employee/static/js/main.94823af8.js",
+    "static/js/453.814358f2.chunk.js": "/github.io/Employee/static/js/453.814358f2.chunk.js",
+    "static/media/sarathi picture.jpg": "/github.io/Employee/static/media/sarathi picture.36474481c2b56817eb93.jpg",
+    "static/media/elizebeth olsen.jpg": "/github.io/Employee/static/media/elizebeth olsen.ff63aed929abb921ee63.jpg",
+    "static/media/tom holland.jpg": "/github.io/Employee/static/media/tom holland.2962ea8d81e810f60b90.jpg",
+    "static/media/steve.jpg": "/github.io/Employee/static/media/steve.57abbcee47ef0a41f9d6.jpg",
+    "static/media/henry cavuil.jpg": "/github.io/Employee/static/media/henry cavuil.93045d8c7bd1f530977c.jpg",
+    "static/media/robert paddinson.jpg": "/github.io/Employee/static/media/robert paddinson.fa54e9ab99a4eec84548.jpg",
+    "static/media/tony.jpg": "/github.io/Employee/static/media/tony.4f59ed0d0ec8e151861f.jpg",
+    "static/media/brucebanner.jpg": "/github.io/Employee/static/media/brucebanner.6e0bf99ab8e3e21da5c4.jpg",
+    "static/media/emma stone.jpg": "/github.io/Employee/static/media/emma stone.7b1d5f4dcf0510c0c6c1.jpg",
+    "static/media/hugh jackman.jpg": "/github.io/Employee/static/media/hugh jackman.d32cc4ad5c6658de3453.jpg",
+    "static/media/chris.jpg": "/github.io/Employee/static/media/chris.bea35f9b6cac0e3a1f19.jpg",
+    "static/media/natasha.jpg": "/github.io/Employee/static/media/natasha.7f40abe6555cc20bf435.jpg",
+    "index.html": "/github.io/Employee/index.html",
+    "main.6f741114.css.map": "/github.io/Employee/static/css/main.6f741114.css.map",
+    "main.94823af8.js.map": "/github.io/Employee/static/js/main.94823af8.js.map",
+    "453.814358f2.chunk.js.map": "/github.io/Employee/static/js/453.814358f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f741114.css",
+    "static/js/main.94823af8.js"
+  ]
+}
