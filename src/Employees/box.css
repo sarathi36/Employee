@@ -1,0 +1,32 @@
+#list1::marker{
+    color: #1e81b0
+}
+#list2::marker{
+    color: #FFFF00;
+}
+#list3::marker{
+    color: #FF0000;
+}
+#list4::marker{
+    color: #FF00FF;
+}
+#list5::marker{
+    color: #008000;
+}
+#list6::marker{
+    color: #00008B;
+}
+#list7::marker{
+    color: #013220;
+}
+#list8::marker{
+    color: #FF474C;
+}
+
+img{
+    width: 320px;
+    height: 400px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px  black;
+    
+}
